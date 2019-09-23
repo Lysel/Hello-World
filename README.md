@@ -1,2 +1,4 @@
 # Hello-World
-Just learn how to start
+I am Ly Sel
+I start to use Github.
+Just learn how to start.
